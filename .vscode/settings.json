@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.codeInsets": true,
+  "editor.tabCompletion": "on",
+  "editor.stablePeek": true,
+  "editor.cursorBlinking": "phase"
+}
